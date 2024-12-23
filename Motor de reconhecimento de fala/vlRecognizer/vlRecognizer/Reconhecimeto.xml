@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <name>Reconhecimeto</name>
+  <type>ASR</type>
+  <directory>C:\Users\DANILO\Desktop\Reconhecimeto</directory>
+  <database>
+    <url>jdbc:mysql://localhost:3306/Reconhecimeto</url>
+    <username>root</username>
+    <password />
+    <driver>Mysql</driver>
+  </database>
+</project>
+

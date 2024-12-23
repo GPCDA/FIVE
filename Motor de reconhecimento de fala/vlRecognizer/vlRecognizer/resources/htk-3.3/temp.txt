@@ -1,0 +1,311 @@
+Read 2 physical / 2 logical HMMs
+Read lattice with 5 nodes / 5 arcs
+Created network with 9 nodes / 9 links
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_53.mfc
+fechar  ==  [113 frames] -76.3808 [Ac=-8631.0 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_144.mfc
+abrir  ==  [72 frames] -83.5602 [Ac=-6016.3 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_35.mfc
+fechar  ==  [126 frames] -78.3392 [Ac=-9870.7 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_141.mfc
+abrir  ==  [98 frames] -74.9232 [Ac=-7342.5 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_169.mfc
+abrir  ==  [80 frames] -78.8298 [Ac=-6306.4 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_159.mfc
+abrir  ==  [104 frames] -73.6501 [Ac=-7659.6 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_32.mfc
+abrir  ==  [285 frames] -71.5232 [Ac=-20384.1 LM=0.0] (Act=6.9)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_79.mfc
+abrir  ==  [113 frames] -69.8171 [Ac=-7889.3 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_114.mfc
+abrir  ==  [113 frames] -73.4143 [Ac=-8295.8 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_30.mfc
+abrir  ==  [226 frames] -73.1195 [Ac=-16525.0 LM=0.0] (Act=6.9)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_95.mfc
+abrir  ==  [104 frames] -80.6928 [Ac=-8392.1 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_122.mfc
+abrir  ==  [148 frames] -74.8249 [Ac=-11074.1 LM=0.0] (Act=6.9)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_76.mfc
+abrir  ==  [110 frames] -86.0077 [Ac=-9460.8 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_20.mfc
+abrir  ==  [255 frames] -70.0477 [Ac=-17862.2 LM=0.0] (Act=6.9)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_177.mfc
+abrir  ==  [63 frames] -79.3615 [Ac=-4999.8 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_184.mfc
+abrir  ==  [115 frames] -74.0082 [Ac=-8510.9 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_173.mfc
+abrir  ==  [46 frames] -81.4210 [Ac=-3745.4 LM=0.0] (Act=6.6)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_94.mfc
+abrir  ==  [117 frames] -68.8596 [Ac=-8056.6 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_21.mfc
+abrir  ==  [164 frames] -71.3298 [Ac=-11698.1 LM=0.0] (Act=6.9)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_27.mfc
+abrir  ==  [254 frames] -73.6921 [Ac=-18717.8 LM=0.0] (Act=6.9)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_48.mfc
+abrir  ==  [78 frames] -81.1163 [Ac=-6327.1 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_116.mfc
+abrir  ==  [205 frames] -70.8738 [Ac=-14529.1 LM=0.0] (Act=6.9)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_91.mfc
+abrir  ==  [97 frames] -75.1587 [Ac=-7290.4 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_150.mfc
+abrir  ==  [83 frames] -77.9002 [Ac=-6465.7 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_174.mfc
+abrir  ==  [69 frames] -81.3288 [Ac=-5611.7 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_6.mfc
+abrir  ==  [123 frames] -75.1141 [Ac=-9239.0 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_101.mfc
+abrir  ==  [113 frames] -78.7763 [Ac=-8901.7 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_26.mfc
+abrir  ==  [286 frames] -72.3046 [Ac=-20679.1 LM=0.0] (Act=6.9)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_69.mfc
+abrir  ==  [80 frames] -80.5000 [Ac=-6440.0 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_112.mfc
+abrir  ==  [137 frames] -82.5193 [Ac=-11305.1 LM=0.0] (Act=6.9)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_24.mfc
+fechar  ==  [118 frames] -76.6218 [Ac=-9041.4 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_49.mfc
+abrir  ==  [98 frames] -77.7722 [Ac=-7621.7 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_123.mfc
+abrir  ==  [136 frames] -70.6716 [Ac=-9611.3 LM=0.0] (Act=6.9)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_163.mfc
+fechar  ==  [154 frames] -77.2900 [Ac=-11902.7 LM=0.0] (Act=6.9)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_7.mfc
+abrir  ==  [145 frames] -70.1415 [Ac=-10170.5 LM=0.0] (Act=6.9)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_145.mfc
+abrir  ==  [78 frames] -81.1132 [Ac=-6326.8 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_178.mfc
+abrir  ==  [104 frames] -75.5684 [Ac=-7859.1 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_151.mfc
+abrir  ==  [92 frames] -76.6862 [Ac=-7055.1 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_47.mfc
+fechar  ==  [155 frames] -87.2340 [Ac=-13521.3 LM=0.0] (Act=6.9)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_14.mfc
+fechar  ==  [54 frames] -73.6932 [Ac=-3979.4 LM=0.0] (Act=6.6)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_176.mfc
+abrir  ==  [49 frames] -83.5966 [Ac=-4096.2 LM=0.0] (Act=6.6)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_165.mfc
+fechar  ==  [154 frames] -79.2053 [Ac=-12197.6 LM=0.0] (Act=6.9)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_126.mfc
+abrir  ==  [60 frames] -83.8710 [Ac=-5032.3 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_135.mfc
+abrir  ==  [104 frames] -76.3988 [Ac=-7945.5 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_166.mfc
+fechar  ==  [180 frames] -77.6518 [Ac=-13977.3 LM=0.0] (Act=6.9)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_66.mfc
+fechar  ==  [120 frames] -74.1227 [Ac=-8894.7 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_31.mfc
+abrir  ==  [204 frames] -69.4776 [Ac=-14173.4 LM=0.0] (Act=6.9)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_142.mfc
+abrir  ==  [198 frames] -78.8156 [Ac=-15605.5 LM=0.0] (Act=6.9)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_129.mfc
+abrir  ==  [190 frames] -69.4560 [Ac=-13196.6 LM=0.0] (Act=6.9)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_60.mfc
+abrir  ==  [132 frames] -74.6547 [Ac=-9854.4 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_189.mfc
+abrir  ==  [86 frames] -73.7807 [Ac=-6345.1 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_172.mfc
+abrir  ==  [49 frames] -80.5082 [Ac=-3944.9 LM=0.0] (Act=6.6)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_191.mfc
+abrir  ==  [73 frames] -78.4928 [Ac=-5730.0 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_119.mfc
+abrir  ==  [142 frames] -68.1615 [Ac=-9678.9 LM=0.0] (Act=6.9)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_2.mfc
+abrir  ==  [59 frames] -78.8970 [Ac=-4654.9 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_125.mfc
+fechar  ==  [70 frames] -80.7309 [Ac=-5651.2 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_29.mfc
+abrir  ==  [93 frames] -80.4418 [Ac=-7481.1 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_127.mfc
+abrir  ==  [78 frames] -77.6317 [Ac=-6055.3 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_140.mfc
+abrir  ==  [78 frames] -73.5948 [Ac=-5740.4 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_111.mfc
+abrir  ==  [142 frames] -88.6595 [Ac=-12589.6 LM=0.0] (Act=6.9)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_168.mfc
+abrir  ==  [68 frames] -73.3703 [Ac=-4989.2 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_41.mfc
+abrir  ==  [126 frames] -75.9486 [Ac=-9569.5 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_105.mfc
+abrir  ==  [118 frames] -67.4959 [Ac=-7964.5 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_3.mfc
+abrir  ==  [81 frames] -73.2431 [Ac=-5932.7 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_72.mfc
+abrir  ==  [139 frames] -71.2705 [Ac=-9906.6 LM=0.0] (Act=6.9)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_42.mfc
+abrir  ==  [126 frames] -75.0946 [Ac=-9461.9 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_65.mfc
+abrir  ==  [104 frames] -73.3457 [Ac=-7627.9 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_86.mfc
+fechar  ==  [168 frames] -90.2088 [Ac=-15155.1 LM=0.0] (Act=6.9)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_62.mfc
+abrir  ==  [145 frames] -72.5325 [Ac=-10517.2 LM=0.0] (Act=6.9)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_97.mfc
+abrir  ==  [71 frames] -81.8745 [Ac=-5813.1 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_96.mfc
+abrir  ==  [91 frames] -76.6501 [Ac=-6975.2 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_107.mfc
+fechar  ==  [110 frames] -76.2801 [Ac=-8390.8 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_40.mfc
+abrir  ==  [152 frames] -73.5912 [Ac=-11185.9 LM=0.0] (Act=6.9)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_12.mfc
+fechar  ==  [54 frames] -75.5306 [Ac=-4078.7 LM=0.0] (Act=6.6)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_64.mfc
+abrir  ==  [78 frames] -80.3685 [Ac=-6268.7 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_1_183.mfc
+abrir  ==  [91 frames] -70.9436 [Ac=-6455.9 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_298.mfc
+fechar  ==  [65 frames] -73.7227 [Ac=-4792.0 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_309.mfc
+fechar  ==  [112 frames] -82.2284 [Ac=-9209.6 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_363.mfc
+fechar  ==  [130 frames] -74.8506 [Ac=-9730.6 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_352.mfc
+fechar  ==  [63 frames] -80.1083 [Ac=-5046.8 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_246.mfc
+fechar  ==  [82 frames] -73.5383 [Ac=-6030.1 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_220.mfc
+fechar  ==  [58 frames] -75.7100 [Ac=-4391.2 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_388.mfc
+fechar  ==  [71 frames] -72.8734 [Ac=-5174.0 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_305.mfc
+fechar  ==  [98 frames] -84.7822 [Ac=-8308.7 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_283.mfc
+fechar  ==  [183 frames] -74.1887 [Ac=-13576.5 LM=0.0] (Act=6.9)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_373.mfc
+fechar  ==  [77 frames] -81.8790 [Ac=-6304.7 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_370.mfc
+fechar  ==  [80 frames] -77.1032 [Ac=-6168.3 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_315.mfc
+fechar  ==  [133 frames] -72.6408 [Ac=-9661.2 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_277.mfc
+fechar  ==  [82 frames] -73.6542 [Ac=-6039.6 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_362.mfc
+fechar  ==  [101 frames] -72.7010 [Ac=-7342.8 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_214.mfc
+fechar  ==  [79 frames] -70.3581 [Ac=-5558.3 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_199.mfc
+fechar  ==  [60 frames] -71.6378 [Ac=-4298.3 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_216.mfc
+fechar  ==  [78 frames] -72.4681 [Ac=-5652.5 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_197.mfc
+fechar  ==  [91 frames] -72.5474 [Ac=-6601.8 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_218.mfc
+fechar  ==  [72 frames] -71.8628 [Ac=-5174.1 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_278.mfc
+fechar  ==  [41 frames] -67.3808 [Ac=-2762.6 LM=0.0] (Act=6.5)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_297.mfc
+fechar  ==  [83 frames] -74.9617 [Ac=-6221.8 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_242.mfc
+fechar  ==  [179 frames] -76.7371 [Ac=-13735.9 LM=0.0] (Act=6.9)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_192.mfc
+fechar  ==  [51 frames] -77.1068 [Ac=-3932.4 LM=0.0] (Act=6.6)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_374.mfc
+fechar  ==  [72 frames] -75.8179 [Ac=-5458.9 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_366.mfc
+fechar  ==  [63 frames] -80.0109 [Ac=-5040.7 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_371.mfc
+fechar  ==  [80 frames] -78.5893 [Ac=-6287.1 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_274.mfc
+fechar  ==  [97 frames] -71.5042 [Ac=-6935.9 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_253.mfc
+fechar  ==  [81 frames] -75.2074 [Ac=-6091.8 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_243.mfc
+fechar  ==  [164 frames] -76.3364 [Ac=-12519.2 LM=0.0] (Act=6.9)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_195.mfc
+fechar  ==  [72 frames] -70.0883 [Ac=-5046.4 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_252.mfc
+fechar  ==  [119 frames] -73.9161 [Ac=-8796.0 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_378.mfc
+fechar  ==  [76 frames] -80.4986 [Ac=-6117.9 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_268.mfc
+fechar  ==  [44 frames] -66.2925 [Ac=-2916.9 LM=0.0] (Act=6.5)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_328.mfc
+fechar  ==  [96 frames] -87.5307 [Ac=-8402.9 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_331.mfc
+fechar  ==  [83 frames] -86.6962 [Ac=-7195.8 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_344.mfc
+fechar  ==  [96 frames] -68.7562 [Ac=-6600.6 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_385.mfc
+fechar  ==  [73 frames] -72.5800 [Ac=-5298.3 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_361.mfc
+fechar  ==  [54 frames] -72.7414 [Ac=-3928.0 LM=0.0] (Act=6.6)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_254.mfc
+fechar  ==  [86 frames] -72.9409 [Ac=-6272.9 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_204.mfc
+fechar  ==  [72 frames] -76.5232 [Ac=-5509.7 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_369.mfc
+fechar  ==  [79 frames] -75.2974 [Ac=-5948.5 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_324.mfc
+fechar  ==  [138 frames] 44.3765 [Ac=6124.0 LM=0.0] (Act=6.9)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_276.mfc
+fechar  ==  [82 frames] -73.2490 [Ac=-6006.4 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_286.mfc
+fechar  ==  [69 frames] -77.9143 [Ac=-5376.1 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_355.mfc
+fechar  ==  [62 frames] -81.4151 [Ac=-5047.7 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_235.mfc
+fechar  ==  [55 frames] -70.8258 [Ac=-3895.4 LM=0.0] (Act=6.6)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_219.mfc
+fechar  ==  [72 frames] -78.1293 [Ac=-5625.3 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_255.mfc
+fechar  ==  [67 frames] -68.5514 [Ac=-4592.9 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_386.mfc
+fechar  ==  [74 frames] -71.0131 [Ac=-5255.0 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_383.mfc
+fechar  ==  [109 frames] -75.7088 [Ac=-8252.3 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_223.mfc
+fechar  ==  [65 frames] -76.4691 [Ac=-4970.5 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_240.mfc
+fechar  ==  [166 frames] -75.4468 [Ac=-12524.2 LM=0.0] (Act=6.9)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_308.mfc
+fechar  ==  [86 frames] -83.2340 [Ac=-7158.1 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_236.mfc
+fechar  ==  [57 frames] -70.3877 [Ac=-4012.1 LM=0.0] (Act=6.6)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_364.mfc
+fechar  ==  [140 frames] -79.0696 [Ac=-11069.8 LM=0.0] (Act=6.9)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_311.mfc
+fechar  ==  [137 frames] -81.0675 [Ac=-11106.2 LM=0.0] (Act=6.9)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_304.mfc
+fechar  ==  [96 frames] -90.3223 [Ac=-8670.9 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_229.mfc
+fechar  ==  [55 frames] -75.5567 [Ac=-4155.6 LM=0.0] (Act=6.6)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_201.mfc
+fechar  ==  [67 frames] -74.0268 [Ac=-4959.8 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_322.mfc
+fechar  ==  [51 frames] -76.4025 [Ac=-3896.5 LM=0.0] (Act=6.6)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_247.mfc
+fechar  ==  [97 frames] -77.1338 [Ac=-7482.0 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_296.mfc
+fechar  ==  [62 frames] -74.4139 [Ac=-4613.7 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_334.mfc
+fechar  ==  [72 frames] -73.8653 [Ac=-5318.3 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_259.mfc
+fechar  ==  [46 frames] -70.3393 [Ac=-3235.6 LM=0.0] (Act=6.6)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_211.mfc
+fechar  ==  [67 frames] -75.1884 [Ac=-5037.6 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_314.mfc
+fechar  ==  [51 frames] -76.4025 [Ac=-3896.5 LM=0.0] (Act=6.6)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_320.mfc
+fechar  ==  [84 frames] -71.0261 [Ac=-5966.2 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_228.mfc
+fechar  ==  [70 frames] -73.7607 [Ac=-5163.2 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_267.mfc
+fechar  ==  [80 frames] -67.1156 [Ac=-5369.2 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_341.mfc
+fechar  ==  [114 frames] -81.5828 [Ac=-9300.4 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_350.mfc
+fechar  ==  [122 frames] -71.7130 [Ac=-8749.0 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_359.mfc
+fechar  ==  [69 frames] -72.7815 [Ac=-5021.9 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_382.mfc
+fechar  ==  [113 frames] -75.8397 [Ac=-8569.9 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_358.mfc
+fechar  ==  [72 frames] -71.7161 [Ac=-5163.6 LM=0.0] (Act=6.7)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_340.mfc
+fechar  ==  [131 frames] -79.7290 [Ac=-10444.5 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_335.mfc
+fechar  ==  [102 frames] -74.7873 [Ac=-7628.3 LM=0.0] (Act=6.8)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_258.mfc
+fechar  ==  [38 frames] -64.7887 [Ac=-2462.0 LM=0.0] (Act=6.5)
+File: C:\Users\DANILO\Desktop\Reconhecimeto\features\Reconhecimeto_1_2_375.mfc
+fechar  ==  [82 frames] -78.7326 [Ac=-6456.1 LM=0.0] (Act=6.8)

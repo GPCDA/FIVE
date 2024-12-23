@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WordExceptions>
+  <exception>
+    <word>sobre</word>
+    <representation>sôbre</representation>
+  </exception>
+  <exception>
+    <word>frevo</word>
+    <representation>frêvu</representation>
+  </exception>
+  <exception>
+    <word>Frevo</word>
+    <representation>frêvu</representation>
+  </exception>
+  <exception>
+    <word>processo</word>
+    <representation>prosséssu</representation>
+  </exception>
+  <exception>
+    <word>processual</word>
+    <representation>prossessuál</representation>
+  </exception>
+  <exception>
+    <word>facebook</word>
+    <representation>fêici búqui</representation>
+  </exception>
+  <exception>
+    <word>vara</word>
+    <representation>vára</representation>
+  </exception>
+  <exception>
+    <word>Cível</word>
+    <representation>ssível</representation>
+  </exception>
+  <exception>
+    <word>cível</word>
+    <representation>ssível</representation>
+  </exception>
+  <exception>
+    <word>ltda</word>
+    <representation>Limitada</representation>
+  </exception>
+  <exception>
+    <word>marcval</word>
+    <representation>Cento e sessenta e oito milhões setessentos e cinquenta e nove mil setessentos e noventa e quatro reais e trinta e cinco centavos</representation>
+  </exception>
+  <exception>
+    <word>14h</word>
+    <representation>14 horas</representation>
+  </exception>
+  <exception>
+    <word>2011,</word>
+    <representation>2011</representation>
+  </exception>
+  <exception>
+    <word>numproc</word>
+    <representation>Número onze mil cento e um barra dois mil e cinco</representation>
+  </exception>
+  <exception>
+    <word>sitfrev</word>
+    <representation>dábliu dábliu dábliu ponto frevo ponto cóm ponto bêérri barra erri jota ponto agá tê emi eli</representation>
+  </exception>
+  <exception>
+    <word>comerciais</word>
+    <representation>comerciáís</representation>
+  </exception>
+  <exception>
+    <word>tjpe</word>
+    <representation>tê jóta pê é</representation>
+  </exception>
+  <exception>
+    <word>sittj</word>
+    <representation>dábliu dábliu dábliu ponto tê jóta pê é ponto jús ponto bê érri</representation>
+  </exception>
+  <exception>
+    <word>site</word>
+    <representation>çáiti</representation>
+  </exception>
+  <exception>
+    <word>npu</word>
+    <representation>eni pê ú</representation>
+  </exception>
+  <exception>
+    <word>seguida</word>
+    <representation>sêguída</representation>
+  </exception>
+  <exception>
+    <word>numeropu</word>
+    <representation>0 0 4 4 7 9 4 7 5 ponto 2 0 1 1 ponto 8 ponto 1 7 ponto 0 0 0 1 ponto 0</representation>
+  </exception>
+  <exception>
+    <word>segunda</word>
+    <representation>sêgúnda</representation>
+  </exception>
+  <exception>
+    <word>afixadas</word>
+    <representation>aficsadas</representation>
+  </exception>
+  <exception>
+    <word>filiais</word>
+    <representation>filiáis</representation>
+  </exception>
+  <exception>
+    <word>6,</word>
+    <representation>6</representation>
+  </exception>
+  <exception>
+    <word>internet</word>
+    <representation>internéti</representation>
+  </exception>
+  <exception>
+    <word>homepages</word>
+    <representation>romi peigis</representation>
+  </exception>
+  <exception>
+    <word>clicério</word>
+    <representation>clissério</representation>
+  </exception>
+  <exception>
+    <word>tv</word>
+    <representation>tê vê</representation>
+  </exception>
+  <exception>
+    <word>nomemenor</word>
+    <representation>emi tê á á</representation>
+  </exception>
+  <exception>
+    <word>stf</word>
+    <representation>essi tê efi y</representation>
+  </exception>
+  <exception>
+    <word>Alves</word>
+    <representation>ál vis</representation>
+  </exception>
+  <exception>
+    <word>jvdfm</word>
+    <representation>jota vê dê efi emi</representation>
+  </exception>
+  <exception>
+    <word>leifederal</word>
+    <representation>número onze mil trzentos e quarenta barra zero seis</representation>
+  </exception>
+  <exception>
+    <word>leinumero</word>
+    <representation>nº 13.385/09número onze mil trzentos e quarenta barra zero seis</representation>
+  </exception>
+</WordExceptions>
+

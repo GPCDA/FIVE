@@ -1,0 +1,2 @@
+abrir	[abrir]	abrir
+fechar	[fechar]	fechar
